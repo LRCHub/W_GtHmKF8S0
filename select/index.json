@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "わたしの代わり - Instead of me",
+  "base_artist": "Ai Higuchi",
+  "createdAt": "2026-02-28T07:17:21.666264Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしの代わり",
+      "artist": "ヒグチアイ",
+      "has_synced": false,
+      "path": "select/pl_01_わたしの代わり_ヒグチアイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "わたしの代わり",
+      "artist": "ヒグチアイ",
+      "has_synced": false,
+      "path": "select/pl_02_わたしの代わり_ヒグチアイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "わたしの代わり",
+      "artist": "ヒグチアイ",
+      "has_synced": false,
+      "path": "select/pl_03_わたしの代わり_ヒグチアイ.txt"
+    }
+  ]
+}
